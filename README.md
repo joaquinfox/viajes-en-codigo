@@ -1,0 +1,3 @@
+En estas paginas web, cuento me aprendizaje de codigo. Tuve la realizacion hace algunos anos atras, que sin saber algo de promamacion, no es possible comprender y negociar el mundo presente. No es exageracion decir que sin una comprension del mundo digital, uno queda vulnerable, con minimos prospectos de empleo, y menos de influencia. 
+
+Y con esa realizacion comenze, a la edad de 50 anos, a explorar este universo mysterioso. Aqui en forma de blog presento mi metodo, los recursos que he utilizado y las etapas por cual he pasado. Incluso estas mismas paginas de web forman un primer capitulo en esta educacion.

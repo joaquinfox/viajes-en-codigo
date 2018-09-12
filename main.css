@@ -1,0 +1,82 @@
+body {
+    color: white;
+    font-size: 24px;
+    padding: 1.5%;
+    background-color: hsl(350, 70%, 55%);
+    font-family: "Inconsolata";
+
+}
+
+header {
+    background-color: rgb(61, 65, 59);
+}
+header h1 {
+    font-family: "Righteous";
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+}
+ul {
+    text-align: center;
+}
+header ul {
+    padding: 0 2rem 3rem;
+    margin-bottom: 0;
+}
+
+li {
+    color: green;
+}
+
+.li_border:nth-child(-n+2){
+    border-right: solid white 1px;
+
+}
+
+.li_border{
+    line-height: 8px;
+    display: inline-block;
+    list-style: none;
+    padding: 1%;
+}
+
+.header_img {
+    border-radius: 50%;
+    position: relative;
+    top: 2rem;
+    left: 2rem;
+    padding: 0;
+}
+main {
+    background-color: hsl(100, 49%, 25%);
+    line-height: 2;
+    min-height: 30rem;
+    padding: 5% 15%;
+}
+main p {
+margin: 0;
+}
+
+img {
+    padding: 4%;
+}
+.first_pic {
+    float: left;
+    clear: both;
+}
+
+.second_pic {
+    float: right;
+}
+
+footer {
+    background-color: rgb(61, 65, 59);
+    height: 5rem;
+    padding: 2%;
+}
+
+footer ul {
+    padding-top: 2rem;
+    margin: 0;
+
+}
